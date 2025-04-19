@@ -1,16 +1,16 @@
-# 🏦 Beta Bank Churn Prediction
+#  Beta Bank Churn Prediction
 
 Predictive modeling project to identify customers likely to leave Beta Bank. The model is designed to assist the bank in improving customer retention strategies by identifying churn risk early.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Build and optimize a binary classification model that predicts whether a customer will leave the bank, maximizing the **F1 score**. The minimum acceptable threshold is F1 ≥ 0.59.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset includes 10,000+ customer records with the following features:
 
@@ -28,7 +28,7 @@ The dataset includes 10,000+ customer records with the following features:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Preprocessing**
    - Clean and transform categorical and numerical variables
@@ -49,7 +49,7 @@ The dataset includes 10,000+ customer records with the following features:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Explored the impact of customer demographics and product usage on churn
 - Demonstrated the value of rebalancing strategies in improving F1 performance
@@ -57,7 +57,7 @@ The dataset includes 10,000+ customer records with the following features:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 beta-bank-churn-prediction/
@@ -70,7 +70,7 @@ beta-bank-churn-prediction/
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -80,13 +80,13 @@ beta-bank-churn-prediction/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Binary Classification & Class Imbalance*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
